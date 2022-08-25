@@ -9,14 +9,13 @@ Important considerations to use properly this template:
 - **What's available in this repo template?**: Documents and guidelines that help you to conceptualize your idea using design thinking practices and artifacts, ppt templates, recommended tools, prototyping practices and resources to work on your project.
 - **Prerequisites**: If you need to learn about Design thinking, planning your project on Github/Azure DevOps/Microsoft Planner you can look at:.
 
-## How to start this course
+## How to start
 
 1. Above these instructions, right-click **Use this template** and open the link in a new tab.
    ![Use this template](https://user-images.githubusercontent.com/1221423/169618716-fb17528d-f332-4fc5-a11a-eaa23562665e.png)
 2. In the new tab, follow the prompts to create a new repository.
    - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository-private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
+   - We recommend creating a private/internal repositories.
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step recomendations in the new repository's README.
 <!--endstep0-->
 
