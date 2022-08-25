@@ -8,7 +8,6 @@ Important considerations to use properly this template:
 - **Who is this for**: Hackers, Influencesr, Advisors that will participate in Microsoft Global Hackathon in Mexico Venue.
 - **What's available in this repo template?**: Documents and guidelines that help you to conceptualize your idea using design thinking practices and artifacts, ppt templates, recommended tools, prototyping practices and resources to work on your project.
 - **Prerequisites**: If you need to learn about Design thinking, planning your project on Github/Azure DevOps/Microsoft Planner you can look at:.
-- **How long**: This course is 7 steps long and takes less than 1 hour to complete.
 
 ## How to start this course
 
@@ -18,35 +17,9 @@ Important considerations to use properly this template:
    - For owner, choose your personal account or an organization to host the repository.
    - We recommend creating a public repository-private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
    ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
+3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step recomendations in the new repository's README.
 <!--endstep0-->
 
-
-
-
-# Create a release based workflow
-
-<!--step0
-Create a release based workflow that is built on the foundations of the [GitHub flow](https://guides.github.com/introduction/flow/). When your team uses a release-based workflow, GitHub makes it easy to collaborate with deployable iterations of your project that you can package and make available for a wider audience to download and use.
-
-GitHub releases allow your team to package and provide software to your users based on a specific point in the history of your project.
-
-- **Who is this for**: Developers, DevOps Engineers, IT Operations, managers, and teams.
-- **What you'll learn**: How to follow a release-based workflow.
-- **What you'll build**: You will create tags, releases, and release notes.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
-- **How long**: This course is 7 steps long and takes less than 1 hour to complete.
-
-## How to start this course
-
-1. Above these instructions, right-click **Use this template** and open the link in a new tab.
-   ![Use this template](https://user-images.githubusercontent.com/1221423/169618716-fb17528d-f332-4fc5-a11a-eaa23562665e.png)
-2. In the new tab, follow the prompts to create a new repository.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository-private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   ![Create a new repository](https://user-images.githubusercontent.com/1221423/169618722-406dc508-add4-4074-83f0-c7a7ad87f6f3.png)
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
-endstep0-->
 
 <!--Step 1-->
 <details id=1 >
