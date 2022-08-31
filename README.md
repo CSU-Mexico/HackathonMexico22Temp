@@ -67,7 +67,7 @@ Something that helps you to elaborate your value proposition is try to answer th
 - Am I formulating my proposal in a clear way?
 - It sounds as something my Cx would understand?
 
-You can find an example at 
+You can find an example at https://github.com/CSU-Mexico/HackathonMexico22Temp/tree/main/CustomerValue/ValueProposition
    
 </details>
 
