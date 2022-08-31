@@ -31,7 +31,10 @@ Identify the jobs to be done:
 2. Customer Jobs: Describe what the customer is trying to obtain/achieve in their work and in his/her life
 3. Pains: Describe the negative results, the risks and obstacles related to the customer work
 
-You can see an example in this repo at 
+![image](https://user-images.githubusercontent.com/31298167/187567615-0eddd719-a516-4fae-8696-1ac35ad2060e.png)
+
+
+You can see an example in this repo at https://github.com/CSU-Mexico/HackathonMexico22Temp/tree/main/CustomerValue/ValueForUser
 
 </details>
 
