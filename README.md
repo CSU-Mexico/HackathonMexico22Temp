@@ -76,7 +76,24 @@ You can find an example at
 <summary><h2>Step 3: Work on a prototype</h2></summary>
 
 ### Prototyping
+   
+Prototyping is an essential step in the Design Thinking process and is often used in the final testing phase. Every product has a target audience and is designed to solve their problems in some way. To assess whether a product really solves its users' problems, designers create an almost-working model or mock-up of the product, called a prototype, and test it with prospective users and stakeholders.
+   
+The following prototype techniques could be helpfull in your project: 
+   
+- Sketches and Diagrams : Perhaps the most basic form of prototyping, sketching, requires minimal effort and does not necessarily require artistic drawing skills to serve its purpose. Use sketches to begin the process of conceptualizing and building a new product and share the concept with teammates for more ideas and discussions. 
 
+- Paper Interface : Digital products, especially websites, mobile apps, web services, and other screen-related products, require a range of prototyping methods en route to the final design and development. Paper interfaces prove to be handy for early-stage prototyping for digital products. You can sketch paper interfaces or draw and cut out usable parts of a user interface like a drop-down menu or text field. 
+
+- Storyboards : Storyboarding is an excellent way of telling stories and guiding targeted customers through a user experience. A technique to be used for early prototyping, storyboards allow you to visualize how users would experience a problem or product and present it in a series of images or sketches. Stories help us gather information on users, tasks, and goals while at the same time evoking new ideas through collaboration with other designers. Drawing out a user's experience helps us better understand their world and to think from their perspective. 
+
+- Role-Playing : Role-playing or experiential prototyping enables designers to explore situations within the system that you're targeting physically. Role-playing can be best used in capturing and enacting the user's experience of using a product or service. Consider simulating their experience to gain an empathic understanding of users. You can create props, use objects and audio simulations to imitate the user environment. 
+   
+- Physical Models : For a physical product, you can use a wide variety of materials to build a prototype for testing. Physical models are often built using paper, cardboard, clay, foam, or by repurposing existing objects. A physical model is used to bring an intangible idea into a physical, three-dimensional form. This enables much better user testing and can evoke discussions on the form factor of the proposed product. 
+
+- Wizard of Oz Prototypes : Prototypes with faked functions that you can use to test users are called Wizard of Oz Prototypes. Like in the wizard of Oz story where the wizard creates an ominous, deceptive appearance from behind a screen – this prototype allows you to mimic certain aspects of your product to save time and resources. For example, interactivity that comes from a human and not an algorithm can be tweaked such that users believe the latter is the case. The most famous example of Wizard of Oz Prototypes is a digital system prototype, where the user is tricked into believing that the system responses are computer-generated when they are human-controlled. 
+
+- User-Driven Prototypes : A user-driven prototype does not test on users but allows the user to create some design, so you learn more about their thinking. This type of prototyping adds to the benefits of design thinking. Its purpose is not to use the user-generated solutions but to use their designs to gain empathy with them or fine-tune your product according to their ideas. 
 
 </details>
 
