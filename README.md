@@ -101,8 +101,14 @@ The following prototype techniques could be helpfull in your project:
 <details id=4>
 <summary><h2>Step 4: Use an agile methodology</h2></summary>
 
-### Use an agile methodology 
-Use an agile methodology to work on your project you can leverage the following resources: 
+### Agile methodology 
+Use an agile methodology to work on your project, it will help you to plan and organize the work that you have to do to implement a solution. 
+You can use to manage all you backlog the following tools:
+   - Azure Devops Boards : https://docs.microsoft.com/en-us/azure/devops/boards/get-started/what-is-azure-boards?view=azure-devops
+   - GitHub Projects : https://docs.github.com/en/issues/planning-and-tracking-with-projects/learning-about-projects/about-projects
+   - Microsoft Planner : https://www.microsoft.com/es-mx/microsoft-365/business/task-management-software
+   
+If you want to know more about what is agile please visit : https://docs.microsoft.com/en-us/devops/plan/planning-efficient-workloads-with-devops 
 
 </details>
 
@@ -112,8 +118,7 @@ Use an agile methodology to work on your project you can leverage the following 
 
 ### Use of Github and Azure DevOps
 
-you can leverage the following resources:
-
+Use Github/Azure DevOps manage your code, create a CI/Cd process and manage all the lifecycle of your project implementation.
 
 </details>
 
