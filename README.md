@@ -19,6 +19,7 @@ Important considerations to use properly this template:
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step recomendations in the new repository's README.
 <!--endstep0-->
 
+Using Design thinking could be useful to develop your ideas for your project, this only an approach, a guide; exists several techniques that you can use.
 
 <!--Step 1-->
 <details id=1 >
@@ -45,18 +46,26 @@ You can see an example in this repo at https://github.com/CSU-Mexico/HackathonMe
 
 Once that you know the customer needs with the Value for users analysis now it's time to identify how youcan solve them:
 
-Gain Creators : Describe how you can create profits/Wows for your customer.
-Products & services : List the products and services that you will offer to the customer 
-Pain Relievers : Describe how you can relieve the pain for the customer.
+1. Gain Creators : Describe how you can create profits/Wows for your customer.
+2. Products & services : List the products and services that you will offer to the customer 
+3. Pain Relievers : Describe how you can relieve the pain for the customer.
    
 <img src="https://user-images.githubusercontent.com/31298167/187569735-c3dc17bf-9ca0-4bc8-9f32-0255283879be.png" width="300" height="300">
 
 Be Descriptive your value proposition consider include in an document the following structure and elements:
 
-Title/Header: Describe the final benefit that you offer to the Cx.
-Subtitle/Paragraph: Detailed explanation of what are you offering, who is the customer and why. 
-3 points: List of benefits and features.
-Visual Element: Show video, pptx, images to enforce the message.
+1. Title/Header: Describe the final benefit that you offer to the Cx.
+2. Subtitle/Paragraph: Detailed explanation of what are you offering, who is the customer and why. 
+3. 3 points: List of benefits and features.
+4. Visual Element: Show video, pptx, images to enforce the message.
+   
+Something that helps you to elaborate your value proposition is try to answer the following questions: 
+- Who is my value proposition addressed to?
+- Do I understand the Benefits, profits, pains and Jobs of this Customer?
+- Do am I proposing Pain Relievers and Gain Creators that matters to my Cx?
+- Is this proposal different of the competitors?
+- Am I formulating my proposal in a clear way?
+- It sounds as something my Cx would understand?
 
 You can find an example at 
    
